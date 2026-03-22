@@ -9,6 +9,6 @@ public class variable {
 
         System.out.println("Age: " + age);
         System.out.println("Name: " + name);
-        System.out.println("Salary: " + salary);
+        System.out.println("Salary: " + salary); // Printing the values of the variables
     }
 }
